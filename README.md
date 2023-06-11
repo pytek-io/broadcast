@@ -1,2 +1,2 @@
-# broadcast
-multiple consumers asyncio queue
+# mpmc
+Multi producers, multi consumers asyncio based queue.
